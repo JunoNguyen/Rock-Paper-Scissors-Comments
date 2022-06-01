@@ -1,0 +1,15 @@
+body {
+    background-color: #324996;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+#start {
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
